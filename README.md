@@ -1,2 +1,2 @@
 ## Data engineer 
-Expertise in data pipeline and sql.
+Expertise in sql, data pipeline, Python and ETL.
